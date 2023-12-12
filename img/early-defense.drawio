@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-12-12T08:12:06.378Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="MQne8-gaW4l_wW7JNiwB" version="22.1.7" type="device">
+  <diagram name="Page-1" id="Lf9RcSflvCuKWyz74LiH">
+    <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="170" y="210" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.connector;" parent="1" vertex="1">
+          <mxGeometry x="160" y="250" width="57" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="230" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="390" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="550" y="230" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.connector;" parent="1" vertex="1">
+          <mxGeometry x="320" y="250" width="57" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.connector;" parent="1" vertex="1">
+          <mxGeometry x="480" y="249" width="57" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-8" value="" style="shape=link;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="188" y="380" as="sourcePoint" />
+            <mxPoint x="188" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/77_hacker_user_gammer_programmer-128.png;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry y="207" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="OvEmna7GXjGJ7kG7fcwx-12" value="#!Ds&amp;amp;#%" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.loud_callout" parent="1" vertex="1">
+          <mxGeometry x="70" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

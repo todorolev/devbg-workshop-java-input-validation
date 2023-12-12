@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-12-12T08:03:00.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="r8Qvk0XXJQjafvrD3D4c" version="22.1.7" type="device">
+  <diagram name="Page-1" id="rde0Z5El6e5nnXsRYsBi">
+    <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sg50EY0ArCdLADUgZhGW-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg50EY0ArCdLADUgZhGW-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.connector;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="57" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg50EY0ArCdLADUgZhGW-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg50EY0ArCdLADUgZhGW-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg50EY0ArCdLADUgZhGW-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg50EY0ArCdLADUgZhGW-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.connector;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="57" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg50EY0ArCdLADUgZhGW-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.connector;" vertex="1" parent="1">
+          <mxGeometry x="480" y="249" width="57" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Sg50EY0ArCdLADUgZhGW-8" value="" style="shape=link;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="520" y="370" as="sourcePoint" />
+            <mxPoint x="520" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
