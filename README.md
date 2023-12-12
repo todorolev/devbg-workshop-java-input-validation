@@ -1,4 +1,4 @@
-Файлът [validation.md](./validation.md) съдържа цялата информация от лекцията.
+Файлът [validation.md](./validation.md) съдържа цялата информация от лекцията.  Файлът [validation-short.md](./validation-short.md) съдържа само основните неща и диаграми.
 
 [regauto](./regauto/) е Spring Boot приложението, използванo за примера по време на лекцията.
 
