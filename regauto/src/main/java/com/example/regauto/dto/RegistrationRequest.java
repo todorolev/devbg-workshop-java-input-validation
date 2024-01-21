@@ -1,5 +1,7 @@
 package com.example.regauto.dto;
 
+import com.example.regauto.dto.valid.Name;
+import com.example.regauto.dto.valid.Plate;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -10,7 +12,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 public class RegistrationRequest {
-    private String ownerName;
-    private String ownerSurname;
-    private String plate;
+    private Name ownerName;
+    private Name ownerSurname;
+    private Plate plate;
 }

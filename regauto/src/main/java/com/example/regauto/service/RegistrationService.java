@@ -24,9 +24,15 @@ public class RegistrationService {
                                 .id( UUID
                                          .randomUUID()
                                          .toString() )
-                                .ownerName( registrationRequest.getOwnerName() )
-                                .ownerSurname( registrationRequest.getOwnerSurname() )
-                                .plate( registrationRequest.getPlate() )
+                                .ownerName( registrationRequest
+                                                .getOwnerName()
+                                                .get() )
+                                .ownerSurname( registrationRequest
+                                                   .getOwnerSurname()
+                                                   .get() )
+                                .plate( registrationRequest
+                                            .getPlate()
+                                            .get() )
                                 .build() );
     }
 
