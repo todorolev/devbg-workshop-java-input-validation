@@ -1,12 +1,12 @@
-Файлът [validation.md](./validation.md) съдържа цялата информация от лекцията.  Файлът [validation-short.md](./validation-short.md) съдържа само основните неща и диаграми.
+The file [validation_en.md](./validation_en.md) contains the transcript from the lecture.
 
-[regauto](./regauto/) е Spring Boot приложението, използванo за примера по време на лекцията.
+[regauto](./regauto/) is the Spring Boot application used for the example during the lecture.
 
-**Пример:** Приложение за регистрация на автомобили. За да се регистрира нов автомобил трябва да се изпрати заявка, съдържаща имената на собственика и регистрационният номер.
+**Example:** An application for cars data registration. In order to register a new car, a request containing the owner's name and registration plate must be submitted.
 
 ### [regauto](./regauto/)
-*Build:* ``./gradlew clean build`` или (Windows) ``.\gradlew clean build``<br/>
-*Start:* Стартирайте ``main()`` метода в IDE или с ``java -jar ./build/libs/regauto-0.0.1-SNAPSHOT.jar``
+*Build:* ``./gradlew clean build`` or (Windows) ``.\gradlew clean build``<br/>
+*Start:* Start the ``main()`` method in the IDE or via ``java -jar ./build/libs/regauto-0.0.1-SNAPSHOT.jar``
 
 **Endpoints**<br/>
 *Save Car*<br/>
